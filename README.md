@@ -1,2 +1,2 @@
 # Automated-Class-Enroll-Bot
-This is a bot that I designed according to my needs in order to add a class .
+This is a bot that I designed using Selenium in order to add a class according to my needs .
